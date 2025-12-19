@@ -1,4 +1,4 @@
-package com.mailsmith.backend;
+package com.mailsmith;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
