@@ -1,12 +1,12 @@
-package com.mailsmith.dto;
+package com.templify.dto;
 
 import java.util.List;
 
-public class MjmlRenderResult {
-    private final String html;
-    private final List<String> errors;
+public class RenderResponse {
+    private String html;
+    private List<String> errors;
 
-    public MjmlRenderResult(String html, List<String> errors) {
+    public RenderResponse(String html, List<String> errors) {
         this.html = html;
         this.errors = errors;
     }
@@ -19,5 +19,4 @@ public class MjmlRenderResult {
         return errors;
     }
 }
-
 

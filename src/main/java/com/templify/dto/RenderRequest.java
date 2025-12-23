@@ -1,4 +1,4 @@
-package com.mailsmith.dto;
+package com.templify.dto;
 
 import java.util.Map;
 

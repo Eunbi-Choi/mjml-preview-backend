@@ -1,9 +1,9 @@
-package com.mailsmith.service;
+package com.templify.service;
 
 import com.github.mustachejava.DefaultMustacheFactory;
 import com.github.mustachejava.Mustache;
 import com.github.mustachejava.MustacheFactory;
-import com.mailsmith.dto.MjmlRenderResult;
+import com.templify.dto.MjmlRenderResult;
 import org.springframework.stereotype.Service;
 
 import java.io.*;

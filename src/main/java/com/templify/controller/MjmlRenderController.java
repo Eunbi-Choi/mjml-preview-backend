@@ -1,9 +1,9 @@
-package com.mailsmith.controller;
+package com.templify.controller;
 
-import com.mailsmith.dto.MjmlRenderResult;
-import com.mailsmith.dto.RenderRequest;
-import com.mailsmith.dto.RenderResponse;
-import com.mailsmith.service.MjmlRenderService;
+import com.templify.dto.MjmlRenderResult;
+import com.templify.dto.RenderRequest;
+import com.templify.dto.RenderResponse;
+import com.templify.service.MjmlRenderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

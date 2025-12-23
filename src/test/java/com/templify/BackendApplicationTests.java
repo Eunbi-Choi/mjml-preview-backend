@@ -1,4 +1,4 @@
-package com.mailsmith;
+package com.templify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
